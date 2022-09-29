@@ -1,0 +1,1245 @@
+{
+   "stores":[
+      {
+         "name":"Isle Of Wight Store",
+         "address":"Busy Bee Garden Centre, Brading Road, Ryde, Isle of Wight, PO33 1QG",
+         "phone":"01983212238",
+         "location":{
+            "lat":50.7101383289745,
+            "lng":-1.14725541651142
+         },
+         "sun":"10am to 4pm",
+         "mon":"9am to 5pm",
+         "tue":"9am to 5pm",
+         "wed":"9am to 5pm",
+         "thu":"9am to 5pm",
+         "fri":"9am to 5pm",
+         "sat":"9am to 5pm",
+         "facilities":"<li>Accepts online returns</li><li>Restaurant</li><li>Dog Friendly</li><li>More Information: <a href=https://www.busybeegardencentre.co.uk/ target=_blank title=Link to external website>https://www.busybeegardencentre.co.uk/</a></li>"
+      },
+      {
+         "name":"Walsall Boundary Mill Store",
+         "address":"Boundary Mill, Junction 10 Retail Park, Bentley Mill Way, Walsall, WS2 0LE",
+         "phone":"01922 618 200",
+         "location":{
+            "lat":52.5837851380049,
+            "lng":-2.01658675880314
+         },
+         "sun":"10am to 5pm",
+         "mon":"9am to 8pm",
+         "tue":"9am to 8pm",
+         "wed":"9am to 8pm",
+         "thu":"9am to 8pm",
+         "fri":"9am to 8pm",
+         "sat":"9am to 8pm",
+         "facilities":"<li>No Internet returns accepted at this location</li><li>More Information: <a href=https://boundaryoutlet.com/ target=_blank title=Link to external website>https://boundaryoutlet.com/</a></li>"
+      },
+      {
+         "name":"Colne Boundary Mill Store",
+         "address":"Boundary Mill, Vivary Way, Colne, BB8 9NW",
+         "phone":"01282 856200",
+         "location":{
+            "lat":53.85538618665,
+            "lng":-2.18528954343668
+         },
+         "sun":"10am to 5pm",
+         "mon":"9am to 8pm",
+         "tue":"9am to 8pm",
+         "wed":"9am to 8pm",
+         "thu":"9am to 8pm",
+         "fri":"9am to 8pm",
+         "sat":"9am to 8pm",
+         "facilities":"<li>No Internet returns accepted at this location</li><li>Free Parking</li><li>More Information: <a href=https://boundaryoutlet.com/ target=_blank title=Link to external website>https://boundaryoutlet.com/</a></li>"
+      },
+      {
+         "name":"Newcastle Boundary Mill Store",
+         "address":"Boundary Mill Newcastle, Park Lane, Shiremoor, Newcastle, NE27 0BS",
+         "phone":"0191 2972420",
+         "location":{
+            "lat":55.0304649105919,
+            "lng":-1.50247825875155
+         },
+         "sun":"10am to 5pm",
+         "mon":"9am to 8pm",
+         "tue":"9am to 8pm",
+         "wed":"9am to 8pm",
+         "thu":"9am to 8pm",
+         "fri":"9am to 8pm",
+         "sat":"9am to 8pm",
+         "facilities":"<li>No Internet returns accepted at this location</li><li>Cafe </li><li>Free Parking</li><li>Wheelchair Access</li><li>More Information: <a href=https://boundaryoutlet.com/ target=_blank title=Link to external website>https://boundaryoutlet.com/</a></li>"
+      },
+      {
+         "name":"Sheffield Boundary Mill Store",
+         "address":"Boundary Mill Sheffield, Catcliffe Retail Park, Catcliffe, Rotherham, S60 5TR",
+         "phone":"01709 832800",
+         "location":{
+            "lat":53.3903665380933,
+            "lng":-1.37515084529119
+         },
+         "sun":"10am to 5pm",
+         "mon":"10am to 8pm",
+         "tue":"10am to 8pm",
+         "wed":"10am to 8pm",
+         "thu":"10am to 8pm",
+         "fri":"10am to 8pm",
+         "sat":"10am to 8pm",
+         "facilities":"<li>No Internet returns accepted at this location</li><li>More Information: <a href=https://boundaryoutlet.com/ target=_blank title=Link to external website>https://boundaryoutlet.com/</a></li>"
+      },
+      {
+         "name":"Country Market Store",
+         "address":"Country Market Garden Centre, Malthouse & Osbourne Farm, Kingsley, Bordon, Hampshire, GU35 0QP",
+         "phone":"01420551139",
+         "location":{
+            "lat":51.1410242260855,
+            "lng":-0.855108323881443
+         },
+         "sun":"10am to 4pm",
+         "mon":"9am to 5.30pm",
+         "tue":"9am to 5.30pm",
+         "wed":"9am to 5.30pm",
+         "thu":"9am to 5.30pm",
+         "fri":"9am to 5.30pm",
+         "sat":"9am to 5.30pm",
+         "facilities":"<li>Accepts online returns</li><li>Cafe </li><li>Free Parking</li><li>Restaurant</li><li>More Information: <a href=www.countrymarket.co.uk target=_blank title=Link to external website>www.countrymarket.co.uk</a></li>"
+      },
+      {
+         "name":"Ross On Wye Store",
+         "address":"Labels Outlet Shopping, Ross Park, Ross on Wye, Herefordshire, HR9 7US",
+         "phone":"01989551082",
+         "location":{
+            "lat":51.9287444235123,
+            "lng":-2.57111543337994
+         },
+         "sun":"11am to 4pm",
+         "mon":"10am to 5pm",
+         "tue":"10am to 5pm",
+         "wed":"10am to 5pm",
+         "thu":"10am to 5pm",
+         "fri":"10am to 5pm",
+         "sat":"10am to 5pm",
+         "facilities":"<li>No Internet returns accepted at this location</li><li>Cafe </li><li>Free Parking</li><li>Wheelchair Access</li><li>More Information: <a href=https://www.labelsshopping.co.uk/ target=_blank title=Link to external website>https://www.labelsshopping.co.uk/</a></li>"
+      },
+      {
+         "name":"Bideford Store",
+         "address":"Unit 30 Affinity Devon, Clovelly Road, Bideford , EX39 3QU",
+         "phone":"01237871067",
+         "location":{
+            "lat":51.0071763743405,
+            "lng":-4.2375756127038
+         },
+         "sun":"10am to 4pm",
+         "mon":"9am to 6pm",
+         "tue":"9am to 6pm",
+         "wed":"9am to 6pm",
+         "thu":"9am to 8pm",
+         "fri":"9am to 6pm",
+         "sat":"9am to 6pm",
+         "facilities":"<li>Accepts online returns</li>"
+      },
+      {
+         "name":"Fleetwood Store",
+         "address":"Unit 32-33 Freeport Shopping Village, Anchorage Road, Fleetwood, FY7 6AE",
+         "phone":"01253202603",
+         "location":{
+            "lat":53.9167777945817,
+            "lng":-3.01406912537743
+         },
+         "sun":"10am to 4pm",
+         "mon":"10am to 6pm",
+         "tue":"10am to 6pm",
+         "wed":"10am to 6pm",
+         "thu":"10am to 6pm",
+         "fri":"10am to 6pm",
+         "sat":"10am to 6pm",
+         "facilities":"<li>Accepts online returns</li>"
+      },
+      {
+         "name":"Braintree Store",
+         "address":"Braintree Village, Charter Way, Unit 69A Chapel Hill, Braintree, Essex, CM77 8YH",
+         "phone":"01376311629",
+         "location":{
+            "lat":51.8696340060044,
+            "lng":0.571182740996269
+         },
+         "sun":"10am to 5pm",
+         "mon":"10am to 6pm",
+         "tue":"10am to 6pm",
+         "wed":"10am to 6pm",
+         "thu":"10am to 6pm",
+         "fri":"10am to 6pm",
+         "sat":"9am to 7pm",
+         "facilities":"<li>Accepts online returns</li>"
+      },
+      {
+         "name":"Spalding Store",
+         "address":"Springfields Shopping Outlet, Unit 18 Camelgate, Spalding, Lincolnshire, PE12 6EU",
+         "phone":"01775660937",
+         "location":{
+            "lat":52.7997509293863,
+            "lng":-0.127735227827857
+         },
+         "sun":"10.30am to 5pm",
+         "mon":"9.30am to 6pm",
+         "tue":"9.30am to 6pm",
+         "wed":"9.30am to 6pm",
+         "thu":"9.30am to 8pm",
+         "fri":"9.30am to 6pm",
+         "sat":"9am to 6pm",
+         "facilities":"<li>Accepts online returns</li>"
+      },
+      {
+         "name":"Doncaster Store",
+         "address":"Lakeside Village, Unit 45 White Rose Way, Doncaster, DN4 5JH",
+         "phone":"01302246080",
+         "location":{
+            "lat":53.5077510169994,
+            "lng":-1.11435521616263
+         },
+         "sun":"10am to 4.30pm",
+         "mon":"9.30am to 6pm",
+         "tue":"9.30am to 6pm",
+         "wed":"9.30am to 6pm",
+         "thu":"9.30am to 6pm",
+         "fri":"9.30am to 6pm",
+         "sat":"9.30am to 6pm",
+         "facilities":"<li>Accepts online returns</li><li>Free parking</li><li>Cafe </li><li>Wheelchair Access</li><li>Free WiFi</li><li>Cash Machine</li><li>Toilets</li><li>Disabled toilet</li><li>Baby change</li>"
+      },
+      {
+         "name":"Talke Store",
+         "address":"Freeport Talke, Unit 26 Talke Retail Park, Pit Lane, Stoke on Trent, Talke, ST7 1XD",
+         "phone":"01782367296",
+         "location":{
+            "lat":53.0701518856078,
+            "lng":-2.26353673173422
+         },
+         "sun":"10am to 4pm",
+         "mon":"10am to 6pm",
+         "tue":"10am to 6pm",
+         "wed":"10am to 6pm",
+         "thu":"10am to 6pm",
+         "fri":"10am to 6pm",
+         "sat":"10am to 6pm",
+         "facilities":"<li>Accepts online returns</li>"
+      },
+      {
+         "name":"Chatham Store",
+         "address":"Chatham Dockside, Unit 29 Maritime Way, Chatham, ME4 3ED",
+         "phone":"01634561360",
+         "location":{
+            "lat":51.4010950953315,
+            "lng":0.534609984371083
+         },
+         "sun":"11am to 5pm",
+         "mon":"10am to 6pm",
+         "tue":"10am to 6pm",
+         "wed":"10am to 6pm",
+         "thu":"10am to 6pm",
+         "fri":"10am to 6pm",
+         "sat":"10am to 6pm",
+         "facilities":"<li>Accepts online returns</li><li>Free parking</li><li>Cafe </li>"
+      },
+      {
+         "name":"Royal Quays Store",
+         "address":"Unit 15 Royal Quays Outlet Centre, Coble Dene, North Shields, NE29 6DW",
+         "phone":"01913000495",
+         "location":{
+            "lat":54.9947031223398,
+            "lng":-1.46478330114683
+         },
+         "sun":"11am to 5pm",
+         "mon":"9.30am to 5.30pm",
+         "tue":"9.30am to 5.30pm",
+         "wed":"9.30am to 5.30pm",
+         "thu":"9.30am to 5.30pm",
+         "fri":"9.30am to 5.30pm",
+         "sat":"9am to 5.30pm",
+         "facilities":"<li>Accepts online returns</li>"
+      },
+      {
+         "name":"Sterling Mills Store",
+         "address":"Unit 7 Sterling Mills, Tillicoultry, Clackmannanshire, FK13 6HQ",
+         "phone":"01259230498",
+         "location":{
+            "lat":56.1495624891618,
+            "lng":-3.74192680300571
+         },
+         "sun":"10am to 6pm",
+         "mon":"10am to 6pm",
+         "tue":"10am to 6pm",
+         "wed":"10am to 6pm",
+         "thu":"10am to 6pm",
+         "fri":"10am to 6pm",
+         "sat":"10am to 6pm",
+         "facilities":"<li>Accepts online returns</li>"
+      },
+      {
+         "name":"Clacton Store",
+         "address":"Unit 21 Clacton Factory Outlet, Stephenson Road West, Clacton on Sea, Essex, CO15 4TL",
+         "phone":"01255441222",
+         "location":{
+            "lat":51.8186339366226,
+            "lng":1.16903506943596
+         },
+         "sun":"11am to 5pm",
+         "mon":"10am to 6pm",
+         "tue":"10am to 6pm",
+         "wed":"10am to 6pm",
+         "thu":"10am to 6pm",
+         "fri":"10am to 6pm",
+         "sat":"10am to 6pm",
+         "facilities":"<li>Accepts online returns</li>"
+      },
+      {
+         "name":"Castleford Store",
+         "address":"Unit L7 Junction 32 Outlet Shopping Village, Tomahawk Trail, Glasshoughton, Castleford, WF10 4FR",
+         "phone":"01977803384",
+         "location":{
+            "lat":53.7120613936048,
+            "lng":-1.33813014911193
+         },
+         "sun":"11am to 5pm",
+         "mon":"10am to 8pm",
+         "tue":"10am to 8pm",
+         "wed":"10am to 8pm",
+         "thu":"10am to 8pm",
+         "fri":"10am to 8pm",
+         "sat":"10am to 6pm",
+         "facilities":"<li>Accepts online returns</li>"
+      },
+      {
+         "name":"Manchester Quayside Store",
+         "address":"Unit F18, Quayside MediaCityUK, Manchester, M50 3AH",
+         "phone":"01612419063",
+         "location":{
+            "lat":53.4709740565132,
+            "lng":-2.29303981504616
+         },
+         "sun":"11am to 5pm",
+         "mon":"10am to 6pm",
+         "tue":"10am to 6pm",
+         "wed":"10am to 6pm",
+         "thu":"10am to 8pm",
+         "fri":"10am to 6pm",
+         "sat":"10am to 7pm",
+         "facilities":"<li>Accepts online returns</li>"
+      },
+      {
+         "name":"Dalton Park Store",
+         "address":"Unit 74 Dalton Park Outlet, Murton, County Durham, SR7 9HU",
+         "phone":"01915001351",
+         "location":{
+            "lat":54.8149014935749,
+            "lng":-1.37450308776713
+         },
+         "sun":"10.30am to 4.30pm",
+         "mon":"10am to 6pm",
+         "tue":"10am to 6pm",
+         "wed":"10am to 6pm",
+         "thu":"10am to 6pm",
+         "fri":"10am to 6pm",
+         "sat":"9.30am to 6pm",
+         "facilities":"<li>Accepts online returns</li><li>Free parking</li><li>Wheelchair access</li><li>Coffee Shop</li><li>Cash Machine</li>"
+      },
+      {
+         "name":"Llandudno Store",
+         "address":"Unit 31 Victoria Centre, Mostyn Street, Llandudno, LL30 2RH",
+         "phone":"01492550101",
+         "location":{
+            "lat":53.3230570021652,
+            "lng":-3.82923299213332
+         },
+         "sun":"10.30am to 4.30pm",
+         "mon":"9am to 5.30pm",
+         "tue":"9am to 5.30pm",
+         "wed":"9am to 5.30pm",
+         "thu":"9am to 5.30pm",
+         "fri":"9am to 5.30pm",
+         "sat":"9am to 5.30pm",
+         "facilities":"<li>Accepts online returns</li>"
+      },
+      {
+         "name":"Ellesmere Port Store",
+         "address":"Rectella, Ellesmere Port, The Port Arcades Shopping Centre, Ellesmere, CH65 0AP",
+         "phone":"01512032420",
+         "location":{
+            "lat":53.2774290539265,
+            "lng":-2.9014015064698
+         },
+         "sun":"11am to 4pm",
+         "mon":"9.30am to 5.30pm",
+         "tue":"9.30am to 5.30pm",
+         "wed":"9.30am to 5.30pm",
+         "thu":"9.30am to 5.30pm",
+         "fri":"9.30am to 5.30pm",
+         "sat":"9.30am to 5.30pm",
+         "facilities":"<li>Accepts online returns</li>"
+      },
+      {
+         "name":"Gloucester Store",
+         "address":"52-56 Southgate Street, Gloucester, GL1 2DR",
+         "phone":"01452223267",
+         "location":{
+            "lat":51.8641340080682,
+            "lng":-2.24771248793239
+         },
+         "sun":"10.30am to 4.30pm",
+         "mon":"10am to 5pm",
+         "tue":"10am to 5pm",
+         "wed":"10am to 5pm",
+         "thu":"10am to 5pm",
+         "fri":"10am to 5pm",
+         "sat":"9.30am to 5.30pm",
+         "facilities":"<li>Accepts online returns</li>"
+      },
+      {
+         "name":"Gretna Store",
+         "address":"Unit 15, Caledonia Park Designer Village, Glasgow Road, Gretna, DG16 5GG",
+         "phone":"01461380039",
+         "location":{
+            "lat":54.9967910851972,
+            "lng":-3.05722421167752
+         },
+         "sun":"10am to 6pm",
+         "mon":"9am to 6pm",
+         "tue":"9am to 6pm",
+         "wed":"9am to 6pm",
+         "thu":"9am to 6pm",
+         "fri":"9am to 6pm",
+         "sat":"9am to 6pm",
+         "facilities":"<li>Accepts online returns</li><li>Free parking</li><li>Wheelchair access</li><li>Restaurants</li>"
+      },
+      {
+         "name":"Livingston Store",
+         "address":"Unit 52 Livingston Designer Outlet, Almondvale Avenue, Livingston, West Lothian, EH54 6QX",
+         "phone":"01506379510",
+         "location":{
+            "lat":55.8832671503542,
+            "lng":-3.52206804349372
+         },
+         "sun":"10am to 6pm",
+         "mon":"9am to 6pm",
+         "tue":"9am to 6pm",
+         "wed":"9am to 6pm",
+         "thu":"9am to 8pm",
+         "fri":"9am to 6pm",
+         "sat":"9am to 6pm",
+         "facilities":"<li>Accepts online returns</li>"
+      },
+      {
+         "name":"Skipton Store",
+         "address":"Unit 10 Craven Court Shopping Centre, High Street, Skipton, North Yorkshire, BD23 1DG",
+         "phone":"01756631296",
+         "location":{
+            "lat":53.9613513481585,
+            "lng":-2.01553808216649
+         },
+         "sun":"11am to 4pm",
+         "mon":"9am to 5pm",
+         "tue":"9am to 5pm",
+         "wed":"9am to 5pm",
+         "thu":"9am to 5pm",
+         "fri":"9am to 5pm",
+         "sat":"9am to 5pm",
+         "facilities":"<li>Accepts online returns</li>"
+      },
+      {
+         "name":"Evesham Store",
+         "address":"Unit 5 The Valley, Evesham Country Park, Evesham, Worcestershire, WR11 4DS",
+         "phone":"01386573217",
+         "location":{
+            "lat":52.1167970821178,
+            "lng":-1.93814325890533
+         },
+         "sun":"10.30am to 4.30pm",
+         "mon":"9am to 5.30pm",
+         "tue":"9am to 5.30pm",
+         "wed":"9am to 5.30pm",
+         "thu":"9am to 5.30pm",
+         "fri":"9am to 5.30pm",
+         "sat":"9am to 5.30pm",
+         "facilities":"<li>Accepts online returns</li><li>Free parking</li><li>Café</li><li>Toilets</li><li>Wheelchair access</li><li>Cash Machine</li>"
+      },
+      {
+         "name":"Banbridge Store",
+         "address":"Unit 49A the Outlet, Banbridge, Northern Ireland, BT32 4LF",
+         "phone":"02840330332",
+         "location":{
+            "lat":54.3292481998191,
+            "lng":-6.275707570512
+         },
+         "sun":"1pm to 6pm",
+         "mon":"10am to 6pm",
+         "tue":"10am to 6pm",
+         "wed":"10am to 6pm",
+         "thu":"10am to 9pm",
+         "fri":"10am to 9pm",
+         "sat":"10am to 6pm",
+         "facilities":"<li>Accepts online returns</li><li>Free parking</li><li>Wheelchair access</li><li>Café</li><li>Restaurant</li>"
+      },
+      {
+         "name":"Chippenham Store",
+         "address":"Unit 12 - 13 Emery Gate Shopping Centre, Chippenham, Wiltshire, SN15 3JP",
+         "phone":"01249471283",
+         "location":{
+            "lat":51.4594335669322,
+            "lng":-2.11443599996759
+         },
+         "sun":"10am to 4pm",
+         "mon":"9am to 5.30pm",
+         "tue":"9am to 5.30pm",
+         "wed":"9am to 5.30pm",
+         "thu":"9am to 5.30pm",
+         "fri":"9am to 5.30pm",
+         "sat":"9am to 5.30pm",
+         "facilities":"<li>Accepts online returns</li>"
+      },
+      {
+         "name":"Camberley Store",
+         "address":"Unit 14 Grace Reynolds Walk, The Square, Camberley, Surrey, GU15 3SL",
+         "phone":"01276536060",
+         "location":{
+            "lat":51.3383404429484,
+            "lng":-0.745510899402242
+         },
+         "sun":"10.30am to 4.30pm",
+         "mon":"9am to 5:30pm",
+         "tue":"9am to 5:30pm",
+         "wed":"9am to 5:30pm",
+         "thu":"9am to 5:30pm",
+         "fri":"9am to 5:30pm",
+         "sat":"9am to 5:30pm",
+         "facilities":"<li>Accepts online returns</li>"
+      },
+      {
+         "name":"Yeovil Store",
+         "address":"35 Middle Street, Yeovil, Somerset, BA20 1LG",
+         "phone":"01935313143",
+         "location":{
+            "lat":50.9415077082257,
+            "lng":-2.62983049940929
+         },
+         "sun":"closed",
+         "mon":"10am to 5pm",
+         "tue":"10am to 5pm",
+         "wed":"10am to 5pm",
+         "thu":"10am to 5pm",
+         "fri":"10am to 5pm",
+         "sat":"9am to 5pm",
+         "facilities":"<li>Accepts online returns</li>"
+      },
+      {
+         "name":"Pughs Store",
+         "address":"Pughs Garden Centre, Tynant Nursery, Ty Nant Road, Morganstown, Cardiff, CF15 8LB",
+         "phone":"02920025419",
+         "location":{
+            "lat":51.5299532882952,
+            "lng":-3.25662865976726
+         },
+         "sun":"10.30am to 4.30pm",
+         "mon":"9am to 5.30pm",
+         "tue":"9am to 5.30pm",
+         "wed":"9am to 5.30pm",
+         "thu":"9am to 5.30pm",
+         "fri":"9am to 5.30pm",
+         "sat":"9am to 5.30pm",
+         "facilities":"<li>Accepts online returns</li><li>Free Parking</li><li>Restaurant</li><li>Coffee Shop</li><li>More Information: <a href=https://www.pughsgardencentre.co.uk/ target=_blank title=Link to external website>https://www.pughsgardencentre.co.uk/</a></li>"
+      },
+      {
+         "name":"Orpington Store",
+         "address":"Unit 20-22 The Walnuts Shopping Centre, High Street, Orpington, Kent, BR6 0TW",
+         "phone":"01689660334",
+         "location":{
+            "lat":51.3775808930903,
+            "lng":0.102050698751805
+         },
+         "sun":"10am to 4pm",
+         "mon":"9am to 5.30pm",
+         "tue":"9am to 5.30pm",
+         "wed":"9am to 5.30pm",
+         "thu":"9am to 5.30pm",
+         "fri":"9am to 5.30pm",
+         "sat":"9am to 5.30pm",
+         "facilities":"<li>Accepts online returns</li>"
+      },
+      {
+         "name":"Hilliers Eastbourne Store",
+         "address":"Hilliers Eastbourne, Hailsham Road, Stone Cross, Pevensey, Eastbourne, BN24 5BS",
+         "phone":"01323400310",
+         "location":{
+            "lat":50.8362957229907,
+            "lng":0.271753041071683
+         },
+         "sun":"10.30am to 4.30pm",
+         "mon":"9am to 5.30pm",
+         "tue":"9am to 5.30pm",
+         "wed":"9am to 5.30pm",
+         "thu":"9am to 5.30pm",
+         "fri":"9am to 5.30pm",
+         "sat":"9am to 5.30pm",
+         "facilities":"<li>Accepts online returns</li><li>Free parking</li><li>Wheelchair Access</li><li>Restaurant</li><li>Toilets</li><li>Disabled toilet</li><li>Baby change</li><li>More Information: <a href=https://www.hillier.co.uk/garden-centres/eastbourne/ target=_blank title=Link to external website>https://www.hillier.co.uk/garden-centres/eastbourne/</a></li>"
+      },
+      {
+         "name":"Hull Store",
+         "address":"Princes Quay, Unit F26, Princes Quay, Princes Dock Street, Hull, HU1 2PQ",
+         "phone":"01482424759",
+         "location":{
+            "lat":53.7425960551254,
+            "lng":-0.339319087710619
+         },
+         "sun":"10.30am to 4.30pm",
+         "mon":"9am to 5.30pm",
+         "tue":"9am to 5.30pm",
+         "wed":"9am to 5.30pm",
+         "thu":"9am to 5.30pm",
+         "fri":"9am to 5.30pm",
+         "sat":"9am to 6pm",
+         "facilities":"<li>Accepts online returns</li>"
+      },
+      {
+         "name":"Trentham Store",
+         "address":"Unit 45 Trentham Shopping Village, Stone Road, Trentham, Stoke on Trent, ST4 8AX",
+         "phone":"01782367371",
+         "location":{
+            "lat":52.9619271047201,
+            "lng":-2.19723101684413
+         },
+         "sun":"10am to 5.30pm",
+         "mon":"10am to 5.30pm",
+         "tue":"10am to 5.30pm",
+         "wed":"10am to 5.30pm",
+         "thu":"10am to 5.30pm",
+         "fri":"10am to 5.30pm",
+         "sat":"10am to 5.30pm",
+         "facilities":"<li>Accepts online returns</li><li>Free parking</li><li>Wheelchair Access</li><li>More Information: <a href=https://trentham.co.uk/shopping-village/about-the-shopping-village/ target=_blank title=Link to external website>https://trentham.co.uk/shopping-village/about-the-shopping-village/</a></li>"
+      },
+      {
+         "name":"Hornsea Store",
+         "address":"Hornsea Garden Centre, Hornsea Road, Sigglesthorne, Hull, HU11 5QL",
+         "phone":"01482947837",
+         "location":{
+            "lat":53.898337391481,
+            "lng":-0.250808685861049
+         },
+         "sun":"10.00am to 4.30pm",
+         "mon":"9am to 6pm",
+         "tue":"9am to 6pm",
+         "wed":"9am to 6pm",
+         "thu":"9am to 6pm",
+         "fri":"9am to 6pm",
+         "sat":"9am to 6pm",
+         "facilities":"<li>Accepts online returns</li><li>Free parking</li><li>Wheelchair Access</li><li>Café</li><li>Childrens play area</li><li>Aquatics area</li><li>Outdoor Patio Area</li><li>More Information: <a href=https://britishgardencentres.com/hornsea-garden-centre/ target=_blank title=Link to external website>https://britishgardencentres.com/hornsea-garden-centre/</a></li>"
+      },
+      {
+         "name":"Yate Store",
+         "address":"14 West Walk, Yate Shopping Centre, Yate, BS37 4AX",
+         "phone":"01454801933",
+         "location":{
+            "lat":51.5406537377983,
+            "lng":-2.41432538590431
+         },
+         "sun":"10am to 4pm",
+         "mon":"9am to 5.30pm",
+         "tue":"9am to 5.30pm",
+         "wed":"9am to 5.30pm",
+         "thu":"9am to 5.30pm",
+         "fri":"9am to 5.30pm",
+         "sat":"9am to 5.30pm",
+         "facilities":"<li>Accepts online returns</li>"
+      },
+      {
+         "name":"Dobbies Dundee Store",
+         "address":"Dobbies, Ethiebeaton Park, Monifieth, Dundee, DD5 4HB",
+         "phone":"01382213228",
+         "location":{
+            "lat":56.4905927864049,
+            "lng":-2.83494760307864
+         },
+         "sun":"9am to 6pm",
+         "mon":"9am to 6pm",
+         "tue":"9am to 6pm",
+         "wed":"9am to 6pm",
+         "thu":"9am to 6pm",
+         "fri":"9am to 6pm",
+         "sat":"9am to 6pm",
+         "facilities":"<li>Accepts online returns</li><li>More Information: <a href=https://www.dobbies.com/dundee target=_blank title=Link to external website>https://www.dobbies.com/dundee</a></li>"
+      },
+      {
+         "name":"Pennells Lincoln Store",
+         "address":"Pennells Garden Centre, Newark Road, South Hykeham, Lincoln, LN6 9NT",
+         "phone":"01522302581",
+         "location":{
+            "lat":53.178524450983,
+            "lng":-0.62146234354491
+         },
+         "sun":"10.00am to 4.30pm",
+         "mon":"8.30am to 5.30pm",
+         "tue":"8.30am to 5.30pm",
+         "wed":"8.30am to 5.30pm",
+         "thu":"8.30am to 5.30pm",
+         "fri":"8.30am to 5.30pm",
+         "sat":"8.30am to 5.30pm",
+         "facilities":"<li>Accepts online returns</li><li>Free parking</li><li>Café/Restaurant</li><li>More Information: <a href=https://www.pennells.co.uk/lincoln/ target=_blank title=Link to external website>https://www.pennells.co.uk/lincoln/</a></li>"
+      },
+      {
+         "name":"Dobbies Preston Store",
+         "address":"Dobbies Garden Centre, Blackpool Road, Clifton, PR4 0XL",
+         "phone":"01772281595",
+         "location":{
+            "lat":53.7679921475347,
+            "lng":-2.8201830909072
+         },
+         "sun":"10.30am to 4.30pm",
+         "mon":"9am to 6pm",
+         "tue":"9am to 6pm",
+         "wed":"9am to 6pm",
+         "thu":"9am to 6pm",
+         "fri":"9am to 6pm",
+         "sat":"9am to 6pm",
+         "facilities":"<li>Accepts online returns</li><li>More Information: <a href=https://www.dobbies.com/preston target=_blank title=Link to external website>https://www.dobbies.com/preston</a></li>"
+      },
+      {
+         "name":"Yarnton Store",
+         "address":"Yarnton Nurseries, Sandy Lane, Yarnton, Kidlington, OX5 1PA",
+         "phone":"01865592035",
+         "location":{
+            "lat":51.8155559048189,
+            "lng":-1.31149319360462
+         },
+         "sun":"10.30am to 4.30pm",
+         "mon":"9am to 5.30pm",
+         "tue":"9am to 5.30pm",
+         "wed":"9am to 5.30pm",
+         "thu":"9am to 5.30pm",
+         "fri":"9am to 5.30pm",
+         "sat":"9am to 5.30pm",
+         "facilities":"<li>Accepts online returns</li><li>More Information: <a href=https://www.yarntonhomegarden.co.uk/ target=_blank title=Link to external website>https://www.yarntonhomegarden.co.uk/</a></li>"
+      },
+      {
+         "name":"Tong Store",
+         "address":"Tong Garden Centre, Tong Lane, Bradford, BD4 0RY",
+         "phone":"01133221374",
+         "location":{
+            "lat":53.7670099686525,
+            "lng":-1.67991845887493
+         },
+         "sun":"10am to 4pm",
+         "mon":"9am to 5.30pm",
+         "tue":"9am to 5.30pm",
+         "wed":"9am to 5.30pm",
+         "thu":"9am to 5.30pm",
+         "fri":"9am to 5.30pm",
+         "sat":"9am to 5.30pm",
+         "facilities":"<li>Accepts online returns</li><li>Cafe </li><li>Free Parking</li><li>Disabled Access</li><li>More Information: <a href=https://www.tonggardencentre.co.uk/ target=_blank title=Link to external website>https://www.tonggardencentre.co.uk/</a></li>"
+      },
+      {
+         "name":"Atkinsons (Concession)",
+         "address":"Julian Charles c/o Atkinsons, 78 - 82 The Moor, Sheffield, South Yorkshire, S1 3LT",
+         "phone":"0114 2768811",
+         "location":{
+            "lat":53.3758748182723,
+            "lng":-1.47411652396286
+         },
+         "sun":"10.30am to 4.30pm",
+         "mon":"9am to 5.30pm",
+         "tue":"9am to 5.30pm",
+         "wed":"9am to 5.30pm",
+         "thu":"9am to 5.30pm",
+         "fri":"9am to 5.30pm",
+         "sat":"9am to 5.30pm",
+         "facilities":"<li>No Internet returns accepted at this location</li><li>Cafe </li><li>Restaurant</li><li>More Information: <a href=https://atkinsonsofsheffield.co.uk/ target=_blank title=Link to external website>https://atkinsonsofsheffield.co.uk/</a></li>"
+      },
+      {
+         "name":"Batley Mill (Concession)",
+         "address":"Julian Charles c/o The Mill, 418 Bradford Road, Batley, West Yorkshire, WF17 5LZ",
+         "phone":"01924423172",
+         "location":{
+            "lat":53.7129564577778,
+            "lng":-1.62545345536601
+         },
+         "sun":"10.30am to 5pm",
+         "mon":"9.30am to 5.30pm",
+         "tue":"9.30am to 5.30pm",
+         "wed":"9.30am to 5.30pm",
+         "thu":"9.30am to 5.30pm",
+         "fri":"9.30am to 5.30pm",
+         "sat":"9.30am to 5.30pm",
+         "facilities":"<li>No Internet returns accepted at this location</li><li>Cafe </li><li>Restaurant</li><li>Free parking</li><li>Customer Lift</li><li>Wheelchair Access</li><li>Disabled toilet</li><li>Baby change</li><li>More Information: <a href=www.themillbatley.com target=_blank title=Link to external website>www.themillbatley.com</a></li>"
+      },
+      {
+         "name":"Broadstone Mill (Concession)",
+         "address":"Julian Charles, C/O Broadstone Mill Shopping Outlet, Broadstone Road, Reddish, Stockport, SK5 7DL",
+         "phone":"0161 953 4470",
+         "location":{
+            "lat":53.4343539444421,
+            "lng":-2.16536921910237
+         },
+         "sun":"11am to 5pm",
+         "mon":"9.30am to 5.30pm",
+         "tue":"9.30am to 5.30pm",
+         "wed":"9.30am to 5.30pm",
+         "thu":"9.30am to 5.30pm",
+         "fri":"9.30am to 5.30pm",
+         "sat":"9.30am to 5.30pm",
+         "facilities":"<li>No Internet returns accepted at this location</li><li>No Returns from other Julian Charless accepted at this location</li><li>Onsite Free Parking</li><li>Customer Lift</li><li>Onsite Cafe & Tearoom</li><li>Wheelchair access</li><li>WiFi</li><li>Customer toilets</li>"
+      },
+      {
+         "name":"Browns of York (Concession)",
+         "address":"Julian Charles c/o Browns of York, Julian Charles Dept, 21 Davygate,York, North Yorkshire, YO1 8QT",
+         "phone":"01904 611166",
+         "location":{
+            "lat":53.9596754436255,
+            "lng":-1.08241918074402
+         },
+         "sun":"10.30am to 4.30pm",
+         "mon":"9.30am to 5.30pm",
+         "tue":"9.30am to 5.30pm",
+         "wed":"9.30am to 5.30pm",
+         "thu":"9.30am to 5.30pm",
+         "fri":"9.30am to 5.30pm",
+         "sat":"9.30am to 5.30pm",
+         "facilities":"<li>No Internet returns accepted at this location</li><li>Restaurant</li>"
+      },
+      {
+         "name":"Camerons Ballimena (Concession)",
+         "address":"Julian Charles c/o Camerons Retail Furnishings, Julian Charles Dept, 23 - 29 Broughshane Street, Ballymena, BT43 6EB",
+         "phone":"028 2564 8821",
+         "location":{
+            "lat":54.8673456632894,
+            "lng":-6.27299122817227
+         },
+         "sun":"closed",
+         "mon":"9.30am to 5pm",
+         "tue":"9.30am to 5pm",
+         "wed":"9.30am to 5pm",
+         "thu":"9.30am to 5pm",
+         "fri":"9.30am to 5pm",
+         "sat":"9.30am to 5pm",
+         "facilities":"<li>No Internet returns accepted at this location</li><li>Restaurant</li>"
+      },
+      {
+         "name":"Cumnock Factory Shop (Concession)",
+         "address":"Julian Charles c/o Cumnock Factory Shop, Craigens Road, Cumnock, Ayrshire, KA18 3AL",
+         "phone":"01290 421121",
+         "location":{
+            "lat":55.4404188231462,
+            "lng":-4.25167486992737
+         },
+         "sun":"10am to 5pm",
+         "mon":"10am to 5pm",
+         "tue":"10am to 5pm",
+         "wed":"10am to 5pm",
+         "thu":"10am to 5pm",
+         "fri":"10am to 5pm",
+         "sat":"10am to 5pm",
+         "facilities":"<li>No Internet returns accepted at this location</li><li>Free parking</li><li>Cafe </li>"
+      },
+      {
+         "name":"Ena Mill (Concession)",
+         "address":"Julian Charles c/o Ena Mill, Flapper Fold, Atherton, M46 0HB",
+         "phone":"01942 882406",
+         "location":{
+            "lat":53.5276050600274,
+            "lng":-2.49482189745623
+         },
+         "sun":"11am to 5pm",
+         "mon":"10am to 5pm",
+         "tue":"10am to 5pm",
+         "wed":"10am to 5pm",
+         "thu":"10am to 5pm",
+         "fri":"10am to 5pm",
+         "sat":"10am to 5pm",
+         "facilities":"<li>No Internet returns accepted at this location</li><li>Free parking</li><li>Cafe </li><li>Wheelchair Friendly</li>"
+      },
+      {
+         "name":"The Courtyard Tarleton (Concession)",
+         "address":"Julian Charles c/o The Courtyard Department, Tarleton, 94 Church Street, Tarleton, Nr Preston, PR4 6UP",
+         "phone":"01772 815068",
+         "location":{
+            "lat":53.6792967114147,
+            "lng":-2.83074128459599
+         },
+         "sun":"11am to 5pm",
+         "mon":"10am to 5pm",
+         "tue":"10am to 5pm",
+         "wed":"10am to 5pm",
+         "thu":"10am to 5pm",
+         "fri":"10am to 5pm",
+         "sat":"10am to 5pm",
+         "facilities":"<li>No Internet returns accepted at this location</li><li>Restaurant</li><li>More Information: <a href=https://www.courtyardtarleton.co.uk/  target=_blank title=Link to external website>https://www.courtyardtarleton.co.uk/ </a></li>"
+      },
+      {
+         "name":"Hatchers Taunton (Concession)",
+         "address":"Julian Charles c/o Hatcher & Sons Ltd, 9-13 High Street, Taunton, TA1 3PQ",
+         "phone":"01823 272277",
+         "location":{
+            "lat":51.0134653001664,
+            "lng":-3.10305629016523
+         },
+         "sun":"closed",
+         "mon":"9am to 4pm",
+         "tue":"9am to 4pm",
+         "wed":"9am to 4pm",
+         "thu":"9am to 4pm",
+         "fri":"9am to 4pm",
+         "sat":"9am to 4pm",
+         "facilities":"<li>No Internet returns accepted at this location</li><li>Coffee Shop</li><li>More Information: <a href=https://www.hatchersdepartmentstore.co.uk/  target=_blank title=Link to external website>https://www.hatchersdepartmentstore.co.uk/ </a></li>"
+      },
+      {
+         "name":"Sligo (Concession)",
+         "address":"Julian Charles c/o Henry Lyons & Co, Lower O Connell Street, Sligo, Ireland, F91 V2AH",
+         "phone":"00353 719147579",
+         "location":{
+            "lat":54.2724184031812,
+            "lng":-8.47609313833123
+         },
+         "sun":"closed",
+         "mon":"9am to 6pm",
+         "tue":"9am to 6pm",
+         "wed":"9am to 6pm",
+         "thu":"9am to 6pm",
+         "fri":"9am to 6pm",
+         "sat":"9am to 6pm",
+         "facilities":"<li>No Internet returns accepted at this location</li><li>More Information: <a href=http://henrylyons.ie/ target=_blank title=Link to external website>http://henrylyons.ie/</a></li>"
+      },
+      {
+         "name":"JAK Hanson Shopping Outlet (Concession)",
+         "address":"Julian Charles c/o Jak Hanson, Mossy Lead Road, Wrightington, WN6 9RE",
+         "phone":"01257 786080",
+         "location":{
+            "lat":53.6016770748963,
+            "lng":-2.69806597237228
+         },
+         "sun":"10.30am to 4.30pm",
+         "mon":"9.30am to 5.30pm",
+         "tue":"9.30am to 5.30pm",
+         "wed":"9.30am to 5.30pm",
+         "thu":"9.30am to 5.30pm",
+         "fri":"9.30am to 5.30pm",
+         "sat":"9.30am to 5.30pm",
+         "facilities":"<li>No Internet returns accepted at this location</li><li>Restaurant</li><li>Free Parking</li><li>Food Hall</li><li>Wheelchair Access</li><li>Accessible Toilets</li><li>More Information: <a href=www.jakhanson.com target=_blank title=Link to external website>www.jakhanson.com</a></li>"
+      },
+      {
+         "name":"M&Co Portishead (Concession)",
+         "address":"Julian Charles c/o M & Co, 21-23 High Street, Portishead, Bristol, BS20 6AB",
+         "phone":"01275 843489",
+         "location":{
+            "lat":51.48386239354,
+            "lng":-2.76839943027662
+         },
+         "sun":"10am to 4pm",
+         "mon":"9am to 5.30pm",
+         "tue":"9am to 5.30pm",
+         "wed":"9am to 5.30pm",
+         "thu":"9am to 5.30pm",
+         "fri":"9am to 5.30pm",
+         "sat":"9am to 5.30pm",
+         "facilities":"<li>No Internet returns accepted at this location</li><li>More Information: <a href=https://www.mandco.com/stores target=_blank title=Link to external website>https://www.mandco.com/stores</a></li>"
+      },
+      {
+         "name":"M&Co Lerwick (Concession)",
+         "address":"Julian Charles c/o M&Co Lerwick, 102 Commercial Street, Lerwick, ZE1 0EX",
+         "phone":"01595 690149 ",
+         "location":{
+            "lat":60.154299832669,
+            "lng":-1.14330609004641
+         },
+         "sun":"closed",
+         "mon":"9.30am to 5.30pm",
+         "tue":"9.30am to 5.30pm",
+         "wed":"9.30am to 5.30pm",
+         "thu":"9.30am to 5.30pm",
+         "fri":"9.30am to 5.30pm",
+         "sat":"9.30am to 5.30pm",
+         "facilities":"<li>No Internet returns accepted at this location</li><li>More Information: <a href=https://www.mandco.com/stores target=_blank title=Link to external website>https://www.mandco.com/stores</a></li>"
+      },
+      {
+         "name":"M&Co Stornoway (Concession)",
+         "address":"Julian Charles c/o M&Co Stornoway, 23 Cromwell Street, Stornoway, HS1 2DA",
+         "phone":"01851 700253 ",
+         "location":{
+            "lat":58.2090156088925,
+            "lng":-6.38821966197653
+         },
+         "sun":"closed",
+         "mon":"9am to 5.30pm",
+         "tue":"9am to 5.30pm",
+         "wed":"9am to 5.30pm",
+         "thu":"9am to 5.30pm",
+         "fri":"9am to 5.30pm",
+         "sat":"9am to 5.30pm",
+         "facilities":"<li>No Internet returns accepted at this location</li><li>More Information: <a href=https://www.mandco.com/stores target=_blank title=Link to external website>https://www.mandco.com/stores</a></li>"
+      },
+      {
+         "name":"M&Co Kirkwall (Orkney) (Concession)",
+         "address":"Julian Charles c/o M&Co, 25 Albert Street, Kirkwall, KW15 1HP, KW15 1HP",
+         "phone":"01856 875923",
+         "location":{
+            "lat":58.9834568425853,
+            "lng":-2.95871814712127
+         },
+         "sun":"12pm to 4pm",
+         "mon":"9.30am to 5pm",
+         "tue":"9.30am to 5pm",
+         "wed":"9.30am to 5pm",
+         "thu":"9.30am to 5pm",
+         "fri":"9.30am to 5pm",
+         "sat":"9.30am to 5pm",
+         "facilities":"<li>No Internet returns accepted at this location</li><li>More Information: <a href=https://www.mandco.com/stores target=_blank title=Link to external website>https://www.mandco.com/stores</a></li>"
+      },
+      {
+         "name":"M&Co Heswall (Concession)",
+         "address":"Julian Charles c/o M&Co, 9-11 Pensby Road,Heswall,Merseyside, CH60 7RA",
+         "phone":"0151 3484260",
+         "location":{
+            "lat":53.3290396320118,
+            "lng":-3.09919162526249
+         },
+         "sun":"closed",
+         "mon":"9.30am to 5pm",
+         "tue":"9.30am to 5pm",
+         "wed":"9.30am to 5pm",
+         "thu":"9.30am to 5pm",
+         "fri":"9.30am to 5pm",
+         "sat":"9.30am to 5pm",
+         "facilities":"<li>No Internet returns accepted at this location</li><li>More Information: <a href=https://www.mandco.com/stores target=_blank title=Link to external website>https://www.mandco.com/stores</a></li>"
+      },
+      {
+         "name":"M&Co Isle of Man (Concession)",
+         "address":"Julian Charles c/o M&Co, Chester Street, Douglas, Isle of Man, IM1 2PJ",
+         "phone":"01624 668188",
+         "location":{
+            "lat":54.1540370960528,
+            "lng":-4.47946724984696
+         },
+         "sun":"12pm to 4pm",
+         "mon":"10am to 4pm",
+         "tue":"9.30am to 5pm",
+         "wed":"9.30am to 5pm",
+         "thu":"9.30am to 5pm",
+         "fri":"9.30am to 5pm",
+         "sat":"9.30am to 5pm",
+         "facilities":"<li>No Internet returns accepted at this location</li><li>More Information: <a href=https://www.mandco.com/stores target=_blank title=Link to external website>https://www.mandco.com/stores</a></li>"
+      },
+      {
+         "name":"Leekes Llantrisant (Concession)",
+         "address":"Julian Charles c/o Leekes Llantrisant, Cowbridge Road, Pontyclun, Rhondda Cynon Taff, Llantrisant, CF72 8XU",
+         "phone":"0333 222 4120",
+         "location":{
+            "lat":51.5315447318103,
+            "lng":-3.38954175551597
+         },
+         "sun":"10.30am to 4.30pm",
+         "mon":"9am to 6pm",
+         "tue":"9am to 6pm",
+         "wed":"9am to 6pm",
+         "thu":"9am to 6pm",
+         "fri":"9am to 6pm",
+         "sat":"9am to 6pm",
+         "facilities":"<li>No Internet returns accepted at this location</li><li>Cafe </li><li>More Information: <a href=https://www.leekes.co.uk/our-stores/all-stores target=_blank title=Link to external website>https://www.leekes.co.uk/our-stores/all-stores</a></li>"
+      },
+      {
+         "name":"Leekes Melksham (Concession)",
+         "address":"Julian Charles c/o Leekes Melksham, Beanacre Park, Melksham, SN12 8AG",
+         "phone":"0333 222 4120",
+         "location":{
+            "lat":51.3841768516255,
+            "lng":-2.14432548679391
+         },
+         "sun":"10.30am to 4.30pm",
+         "mon":"9am to 6pm",
+         "tue":"9am to 6pm",
+         "wed":"9am to 6pm",
+         "thu":"9am to 6pm",
+         "fri":"9am to 6pm",
+         "sat":"9am to 6pm",
+         "facilities":"<li>No Internet returns accepted at this location</li><li>More Information: <a href=https://www.leekes.co.uk/our-stores/all-stores target=_blank title=Link to external website>https://www.leekes.co.uk/our-stores/all-stores</a></li>"
+      },
+      {
+         "name":"Leekes Bilston (Concession)",
+         "address":"Julian Charles c/o Leekes Bilston, Great Bridge Road, Bilston, Wolves, WV14 8LB",
+         "phone":"0333 222 4120",
+         "location":{
+            "lat":52.5590173579934,
+            "lng":-2.05750305601261
+         },
+         "sun":"10.30am to 4.30pm",
+         "mon":"9am to 5.30pm",
+         "tue":"9am to 5.30pm",
+         "wed":"9am to 5.30pm",
+         "thu":"9am to 5.30pm",
+         "fri":"9am to 5.30pm",
+         "sat":"9am to 5.30pm",
+         "facilities":"<li>No Internet returns accepted at this location</li><li>More Information: <a href=https://www.leekes.co.uk/our-stores/all-stores target=_blank title=Link to external website>https://www.leekes.co.uk/our-stores/all-stores</a></li>"
+      },
+      {
+         "name":"Leekes Cross Hands (Concession)",
+         "address":"Julian Charles c/o Leekes, Crosshands Business Park, Llanelli, Carmarthenshire, SA14 6RB",
+         "phone":"01792 544126 ",
+         "location":{
+            "lat":51.7950580332706,
+            "lng":-4.07770821716986
+         },
+         "sun":"10.30am to 4.30pm",
+         "mon":"9am to 6pm",
+         "tue":"9am to 6pm",
+         "wed":"9am to 6pm",
+         "thu":"9am to 6pm",
+         "fri":"9am to 6pm",
+         "sat":"9am to 6pm",
+         "facilities":"<li>No Internet returns accepted at this location</li><li>More Information: <a href=https://www.leekes.co.uk/our-stores/all-stores target=_blank title=Link to external website>https://www.leekes.co.uk/our-stores/all-stores</a></li>"
+      },
+      {
+         "name":"Oldrids Downtown Grantham (Concession)",
+         "address":"Julian Charles c/o Oldrids Downtown Superstore, Gonerby Junction, Grantham, Lincolshire, NG32 2AB",
+         "phone":"01476 590239",
+         "location":{
+            "lat":52.946639575126,
+            "lng":-0.680369585878726
+         },
+         "sun":"10am to 4pm",
+         "mon":"9am to 6pm",
+         "tue":"9am to 6pm",
+         "wed":"9am to 6pm",
+         "thu":"9am to 6pm",
+         "fri":"9am to 6pm",
+         "sat":"9am to 6pm",
+         "facilities":"<li>No Internet returns accepted at this location</li><li>Free Parking</li><li>Free WIFI</li><li>More Information: <a href=https://www.oldrids.co.uk/our-stores/411-downtown-superstore-grantham target=_blank title=Link to external website>https://www.oldrids.co.uk/our-stores/411-downtown-superstore-grantham</a></li>"
+      },
+      {
+         "name":"Shaws Waterford (Concession)",
+         "address":"Julian Charles c/o Shaws Departments, The Quay, Waterford, Z91 CX73",
+         "phone":"00353 518 72977",
+         "location":{
+            "lat":52.2623638205286,
+            "lng":-7.1129492464913
+         },
+         "sun":"1pm to 5.30pm",
+         "mon":"9.30am to 6pm",
+         "tue":"9.30am to 6pm",
+         "wed":"9.30am to 6pm",
+         "thu":"9.30am to 6pm",
+         "fri":"9.30am to 6pm",
+         "sat":"9.30am to 6pm",
+         "facilities":"<li>No Internet returns accepted at this location</li><li>More Information: <a href=https://shaws.ie/pages/stores target=_blank title=Link to external website>https://shaws.ie/pages/stores</a></li>"
+      },
+      {
+         "name":"Shaws Wexford (Concession)",
+         "address":"Julian Charles c/o Shaws Departments, North Main Street, Wexford, Y35 K832",
+         "phone":"00353 539 152 244",
+         "location":{
+            "lat":52.3398187140226,
+            "lng":-6.46268880708641
+         },
+         "sun":"1pm to 5.30pm",
+         "mon":"9.30am to 6pm",
+         "tue":"9.30am to 6pm",
+         "wed":"9.30am to 6pm",
+         "thu":"9.30am to 6pm",
+         "fri":"9.30am to 6pm",
+         "sat":"9.30am to 6pm",
+         "facilities":"<li>No Internet returns accepted at this location</li><li>More Information: <a href=https://shaws.ie/pages/stores target=_blank title=Link to external website>https://shaws.ie/pages/stores</a></li>"
+      },
+      {
+         "name":"Shaws Carlow (Concession)",
+         "address":"Julian Charles c/o Shaws Departments, Tullow Street, Carlow, R93 VY40",
+         "phone":"00353 599 131 509",
+         "location":{
+            "lat":52.8362986048019,
+            "lng":-6.93109415459533
+         },
+         "sun":"1pm to 5.30pm",
+         "mon":"9.30am to 6pm",
+         "tue":"9.30am to 6pm",
+         "wed":"9.30am to 6pm",
+         "thu":"9.30am to 6pm",
+         "fri":"9.30am to 6pm",
+         "sat":"9.30am to 6pm",
+         "facilities":"<li>No Internet returns accepted at this location</li><li>More Information: <a href=https://shaws.ie/pages/stores target=_blank title=Link to external website>https://shaws.ie/pages/stores</a></li>"
+      },
+      {
+         "name":"Shaws Limerick (Concession)",
+         "address":"Julian Charles c/o Shaws Departments,Crescent Centre,Dooradoyle,Limerick, V94 282Y",
+         "phone":"00353 061227774",
+         "location":{
+            "lat":52.6404214953691,
+            "lng":-8.6459795519553
+         },
+         "sun":"12pm to 6pm",
+         "mon":"9.30am to 6pm",
+         "tue":"9.30am to 6pm",
+         "wed":"9.30am to 6pm",
+         "thu":"9.30am to 9pm",
+         "fri":"9.30am to 9pm",
+         "sat":"9.30am to 6pm",
+         "facilities":"<li>No Internet returns accepted at this location</li><li>More Information: <a href=https://shaws.ie/pages/stores target=_blank title=Link to external website>https://shaws.ie/pages/stores</a></li>"
+      },
+      {
+         "name":"Shaws Dun Laoghaire Stpre (Concession)",
+         "address":"Julian Charles c/o Shaws Departments, Lr. Georges St.,Dun Laoghaire, Co.Dublin, A96 RR77",
+         "phone":"00353 012806980",
+         "location":{
+            "lat":53.2901788321114,
+            "lng":-6.13101086785178
+         },
+         "sun":"closed",
+         "mon":"9.30am to 6pm",
+         "tue":"9.30am to 6pm",
+         "wed":"9.30am to 6pm",
+         "thu":"9.30am to 6pm",
+         "fri":"9.30am to 6pm",
+         "sat":"9.30am to 6pm",
+         "facilities":"<li>No Internet returns accepted at this location</li><li>More Information: <a href=https://shaws.ie/pages/stores target=_blank title=Link to external website>https://shaws.ie/pages/stores</a></li>"
+      },
+      {
+         "name":"Shaws Dungarvan (Concession)",
+         "address":"Julian Charles c/o Shaws Departments,Main Street,Dungarvan, Co.Waterford, X35 X621",
+         "phone":"00353 05841071",
+         "location":{
+            "lat":52.0892480064471,
+            "lng":-7.6196544765608
+         },
+         "sun":"closed",
+         "mon":"9.30am to 6pm",
+         "tue":"9.30am to 6pm",
+         "wed":"9.30am to 6pm",
+         "thu":"9.30am to 6pm",
+         "fri":"9.30am to 6pm",
+         "sat":"9.30am to 6pm",
+         "facilities":"<li>No Internet returns accepted at this location</li><li>More Information: <a href=https://shaws.ie/pages/stores target=_blank title=Link to external website>https://shaws.ie/pages/stores</a></li>"
+      },
+      {
+         "name":"Shaws Portlaoise (Concession)",
+         "address":"Julian Charles c/o Shaws Departments,Kylekiproe Road,Portlaoise, Co.Laois, R32 NN2P",
+         "phone":"00353 0578621201",
+         "location":{
+            "lat":53.0328937624422,
+            "lng":-7.3064760012181
+         },
+         "sun":"1pm to 5.30pm",
+         "mon":"9.30am to 6pm",
+         "tue":"9.30am to 6pm",
+         "wed":"9.30am to 6pm",
+         "thu":"9.30am to 6pm",
+         "fri":"9.30am to 6pm",
+         "sat":"9.30am to 6pm",
+         "facilities":"<li>No Internet returns accepted at this location</li><li>More Information: <a href=https://shaws.ie/pages/stores target=_blank title=Link to external website>https://shaws.ie/pages/stores</a></li>"
+      },
+      {
+         "name":"Fife Dept Kircaldy (Concession)",
+         "address":"Fife Department,165-171 High Street,Kirkcaldy , FY1 1JA",
+         "phone":"01592 641374",
+         "location":{
+            "lat":56.1107826577067,
+            "lng":-3.15866648921003
+         },
+         "sun":"11am to 4pm",
+         "mon":"9.30am to 5.30pm",
+         "tue":"9.30am to 5.30pm",
+         "wed":"9.30am to 5.30pm",
+         "thu":"9.30am to 5.30pm",
+         "fri":"9.30am to 5.30pm",
+         "sat":"9.30am to 5.30pm",
+         "facilities":"<li>No Internet returns accepted at this location</li><li>Cafe </li><li>More Information: <a href=https://fifedepartmentstore.com/  target=_blank title=Link to external website>https://fifedepartmentstore.com/ </a></li>"
+      }
+   ]
+}
